@@ -1,0 +1,12 @@
+﻿  Source.cpp
+E:\Individual Project\Project\OpenGL 3D\Assessment\OpenGL\Scene.h(10,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Source.cpp')
+  
+E:\Individual Project\Project\OpenGL 3D\Assessment\OpenGL\Scene.h(10,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Source.cpp')
+  
+E:\Individual Project\Project\OpenGL 3D\Assessment\OpenGL\Scene.h(10,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Source.cpp')
+  
+E:\Individual Project\Project\OpenGL 3D\Assessment\OpenGL\Source.cpp(168,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  OpenGL.vcxproj -> E:\Individual Project\Project\OpenGL 3D\Assessment\x64\Debug\OpenGL.exe
