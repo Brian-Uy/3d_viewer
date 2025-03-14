@@ -25,6 +25,7 @@ Resources/
 *.so
 *.dylib
 *.dll
+!assimp-vc140-mt.dll # keep this file
 
 # Fortran module files
 *.mod
