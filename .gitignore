@@ -8,6 +8,9 @@ Resources/
 *.ipdb
 *.pdb
 
+# remove temp files
+.vs/
+
 # Prerequisites
 *.d
 
@@ -25,7 +28,7 @@ Resources/
 *.so
 *.dylib
 *.dll
-!assimp-vc140-mt.dll # keep this file
+!assimp-vc140-mt.dll
 
 # Fortran module files
 *.mod
