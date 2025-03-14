@@ -1,5 +1,4 @@
-# Models
-Assessment/OpenGL/Resources/Models/
+# remove both resources folder
 Resources/
 
 # remove large generated files
