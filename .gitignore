@@ -2,6 +2,12 @@
 Assessment/OpenGL/Resources/Models/
 Resources/
 
+# remove large generated files
+*.ipch
+*.iobj
+*.ipdb
+*.pdb
+
 # Prerequisites
 *.d
 
