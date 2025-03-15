@@ -1,15 +1,14 @@
 **Please note that the models are not included in the project and Libraries such as GLFW, GLM, ImGUI, etc.**
 
 **For the 3D Viewer to work correctly you will need:**
-- Obj format (.obj)
-- It must contain the following maps: Diffuse, Ambient, Normal, Emmisive
+
+Note that there are 2 folders named "Resources"
 - Resources folder (include libraries) placed in: current directory (next to Assessment)
 - Create a Resources directory: Assessment/OpenGL/Resources
 - Place the shaders and models folder inside the new Resources directory
 
 **To simplify the process all the necessary folders are in this link:**
 - https://drive.google.com/drive/folders/1w8MhWRGEgnkb9sI-so4z56GrIc9zGqco?usp=drive_link
-
 
 **Credits to the artists:**
 - House: https://sketchfab.com/3d-models/guest-house-848c5cd323984d0db036e3dc1d734d5c
